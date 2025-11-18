@@ -22,4 +22,4 @@ Tableau | Dash | Streamlit | Matplotlib | Seaborn
 KPI Analysis | Process Diagnostics | Unit Economics | A/B Testing
 
 **Tools:**
-Git/GitHub | VS Cod
+Git/GitHub | VSC
